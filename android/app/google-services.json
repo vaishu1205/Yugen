@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "173273587991",
+    "project_id": "yugen-1f240",
+    "storage_bucket": "yugen-1f240.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173273587991:android:9bb48c27374bccb993d752",
+        "android_client_info": {
+          "package_name": "com.example.flutter_programs"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIkVLa0pilQTMBwy5bUNt9WLQsJhNz4-o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
